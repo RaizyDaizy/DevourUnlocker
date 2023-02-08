@@ -3,6 +3,7 @@ DevourUnlocker by RaizyDaizy(DX11 Edition and Console Edition)
 
 It's my first Unlocker for Game DEVOUR... Enjoy while you can use this UNLOCKER of this game!!!
 
+[Join To My Discord](https://discord.gg/F6nj6pjaJN)
 
 **FOR DX11 EDITION: USE MANUAL MAP INJECTION!!! BECAUSE THIS ANTICHEAT IS DETECTING IMGUI MENU ON C++!!!**
 
