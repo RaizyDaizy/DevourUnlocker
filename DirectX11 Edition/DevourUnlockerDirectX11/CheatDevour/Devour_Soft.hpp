@@ -14,7 +14,7 @@ bool __stdcall IsRobeUnlocked_h(DWORD* __this, const char* robe, DWORD* method)
 {
 		char name[256];
 		wcstombs(name, (wchar_t*)(robe)+0xA, sizeof(name));
-		cout << "[DevourUnlocker] Robe is Unlocked Succesfully... Name of Unlocked Robes: " << name << "\n" << endl;
+		cout << "[DevourUnlocker] Robe is Unlocked Successfully... Name of Unlocked Robes: " << name << "\n" << endl;
 		return true;
 }
 
