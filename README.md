@@ -15,3 +15,10 @@ It's DX11 Edition UNLOCKER!!!
 
 ![PoC3](https://user-images.githubusercontent.com/123252472/217494226-9b7cd73c-7087-47b0-8f85-a4b8a59a051d.png)
 
+# Console Edition
+
+Soon
+
+## Donation
+
+[Patreon](https://patreon.com/raizydaizy)
