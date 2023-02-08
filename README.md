@@ -1,7 +1,7 @@
 # DevourUnlocker
 DevourUnlocker by RaizyDaizy(DX11 Edition and Console Edition)
 
-It's my first Unlocker for Game DEVOUR... Enjoy while you can use this UNLOCKER!!!
+It's my first Unlocker for Game DEVOUR... Enjoy while you can use this UNLOCKER of this game!!!
 
 ## DirectX11 Edition
 
