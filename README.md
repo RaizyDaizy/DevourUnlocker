@@ -1,7 +1,7 @@
 # DevourUnlocker
 DevourUnlocker by RaizyDaizy(DX11 Edition)
 
-It's my first Unlocker for Game DEVOUR... Enjoy while you can use this UNLOCKER of this game!!!
+It's my first Unlocker for Game DEVOUR... Enjoy while you can use UNLOCKER of this game!!!
 
 [Join To My Discord](https://discord.gg/F6nj6pjaJN)
 
