@@ -7,11 +7,7 @@ It's my first Unlocker for Game DEVOUR... Enjoy while you can use this UNLOCKER 
 
 **FOR DX11 EDITION: USE MANUAL MAP INJECTION!!! BECAUSE THIS ANTICHEAT(BASIC OR NATIVE UNITY ANTICHEAT) IS DETECTING IMGUI MENU ON C++!!!**
 
-## DirectX11 Edition
-
-It's DX11 Edition UNLOCKER!!! 
-
-## Proof of Cheat(Unlocker) Work(DX11 Edition)
+## Proof of Cheat(Unlocker) Work
 
 ![PoC1](https://user-images.githubusercontent.com/123252472/217494056-66cfedb6-9eae-4079-89fb-c84800c8d37a.png)
 
