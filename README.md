@@ -7,7 +7,7 @@ It's my first Unlocker for Game DEVOUR... Enjoy while you can use UNLOCKER of th
 
 **IF MENU IS NOT SHOWING, PLEASE RESTART THE GAME AND USE MANUAL MAP INJECTOR!!! BECAUSE THIS ANTICHEAT(BASIC OR NATIVE UNITY ANTICHEAT) IS DETECTING IMGUI MENU ON C++!!!**
 
-## Proof of Cheat(Unlocker) Work
+## Proof of Working Cheat(Unlocker) 
 
 ![PoC1](https://user-images.githubusercontent.com/123252472/217494056-66cfedb6-9eae-4079-89fb-c84800c8d37a.png)
 
