@@ -3,6 +3,8 @@ DevourUnlocker by RaizyDaizy(DX11 Edition)
 
 It's my first Unlocker for Game DEVOUR... Enjoy while you can use UNLOCKER of this game!!!
 
+Please Support Me, If you want to look at my cheats: [Donation(Patreon)](https://patreon.com/raizydaizy)
+
 [Join To My Discord](https://discord.gg/F6nj6pjaJN)
 
 **IF MENU IS NOT SHOWING, PLEASE RESTART THE GAME AND USE MANUAL MAP INJECTOR!!! BECAUSE OR IT'S BUG OF GAME OR IT'S BUG D3D11!!!**
